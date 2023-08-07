@@ -1,0 +1,39 @@
+{
+  "clientes": [
+    {
+      "id": 1,
+      "nombre": "Héctor",
+      "telefono": 102013313,
+      "email": "hector@correo.com",
+      "empresa": "devsforever"
+    },
+    {
+      "id": 2,
+      "nombre": "Alejandra",
+      "telefono": 138198313,
+      "email": "alet@correo.com",
+      "empresa": "Clinica AT"
+    },
+    {
+      "id": 3,
+      "nombre": "Samuel",
+      "telefono": 31983913,
+      "email": "samm@correo.com",
+      "empresa": "Sammy Store"
+    },
+    {
+      "id": 4,
+      "nombre": "Elsa",
+      "telefono": 319381983,
+      "email": "elsae@correo.com",
+      "empresa": "Guardería E."
+    },
+    {
+      "id": 5,
+      "nombre": "Josias",
+      "telefono": 1398198938,
+      "email": "jost@correo.com",
+      "empresa": "Josi School"
+    }
+  ]
+}
